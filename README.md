@@ -1,5 +1,9 @@
 # Effect of Screen Time on Glaucoma
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ce356d50-c4c6-453a-98f6-16cc9c6abe88" alt="snio">
+</div>
+
 This repository contains the supplementary materials, implementation details, and data associated with the paper **"Effect of Screen Time on Glaucoma"** by **Mahule Roy**.
 
 ---
